@@ -14,3 +14,5 @@ Shell-Edunet AICTE Internship on Predicting Solar Power Output using Linear Regr
           covered are Exploratory Data Analysis (EDA), 
           histograms, scatterplots, bivariate analysis, 
           correlation, heatmap, and outliers using boxplot.
+  # Week-3
+  
